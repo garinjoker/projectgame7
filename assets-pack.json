@@ -1,0 +1,201 @@
+{
+  "level": [
+    {
+      "type": "image",
+      "key": "mono",
+      "url": "assets/images/mono.png",
+      "overwrite": false
+    },
+    {
+      "type": "spritesheet",
+      "key": "boniatillo",
+      "url": "assets/images/boniatillo.png",
+      "frameWidth": 0,
+      "frameHeight": 0,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "bullet",
+      "url": "assets/images/bull.png",
+      "frameWidth": 77,
+      "frameHeight": 39,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "bg",
+      "url": "assets/images/bg.jpg",
+      "frameWidth": 360,
+      "frameHeight": 640,
+      "frameMax": 1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "explosion",
+      "url": "assets/images/explosion.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": 6,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "audio",
+      "key": "boom",
+      "urls": ["assets/sound/boom.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "shoot",
+      "urls": ["assets/sound/shoot.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "scream",
+      "urls": ["assets/sound/scream.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "soundbg",
+      "urls": ["assets/sound/Untitled.ogg"],
+      "autoDecode": true
+    },
+    {
+      "type": "spritesheet",
+      "key": "ship1",
+      "url": "assets/images/shipp.png",
+      "frameWidth": 900,
+      "frameHeight": 675,
+      "frameMax": 15,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "a1",
+      "url": "assets/images/Pat.png",
+      "frameWidth": 64,
+      "frameHeight": 64,
+      "frameMax": 3,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "a2",
+      "url": "assets/images/cum.png",
+      "frameWidth": 64,
+      "frameHeight": 64,
+      "frameMax": 4,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "a3",
+      "url": "assets/images/rot.png",
+      "frameWidth": 13,
+      "frameHeight": 20,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "a4",
+      "url": "assets/images/toma.png",
+      "frameWidth": 64,
+      "frameHeight": 64,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "a5",
+      "url": "assets/images/hom.png",
+      "frameWidth": 64,
+      "frameHeight": 64,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "boss",
+      "url": "assets/images/boss.png",
+      "frameWidth": 96,
+      "frameHeight": 96,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "hp",
+      "url": "assets/images/Astronaut_Female - Copy.png",
+      "frameWidth": 43,
+      "frameHeight": 69,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    }
+  ],
+  "start": [
+    {
+      "type": "image",
+      "key": "tap-to-start",
+      "url": "assets/images/tap-to-start.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "storyt",
+      "url": "assets/images/your-story-1024x455.png",
+      "overwrite": false
+    }
+  ],
+  "preload": [
+    {
+      "type": "image",
+      "key": "loading",
+      "url": "assets/images/loading.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "g1",
+      "url": "assets/images/g1.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "g2",
+      "url": "assets/images/g2.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "g3",
+      "url": "assets/images/g3.png",
+      "overwrite": false
+    }
+  ],
+  "meta": {
+    "generated": "1513843603488",
+    "app": "Phaser Editor",
+    "url": "http://phasereditor.boniatillo.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2016"
+  }
+}
